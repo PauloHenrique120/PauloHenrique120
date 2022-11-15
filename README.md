@@ -19,4 +19,4 @@
    </div>
   <br>
 
-  ![Snake animation](https://github.com/PauloHenrique/PauloHenrique120/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PauloHenrique120/PauloHenrique120/blob/output/github-contribution-grid-snake.svg)
